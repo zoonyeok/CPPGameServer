@@ -35,9 +35,9 @@
 .vs/
 
 # Debug dummy file
-/DummyClient/x64
-/GameServer/Debug
-/GameServer/x64
-/ServerCore/Debug
-/ServerCore/x64
-/Binary
+/DummyClient/x64/
+/GameServer/Debug/
+/GameServer/x64/
+/ServerCore/Debug/
+/ServerCore/x64/
+/Binary/
