@@ -33,3 +33,11 @@
 
 # Visual Studio cache/options directory
 .vs/
+
+#
+CPPGameServer/DummyClient/x64
+CPPGameServer/GameServer/Debug
+CPPGameServer/GameServer/x64
+CPPGameServer/ServerCore/Debug
+CPPGameServer/ServerCore/x64
+CPPGameServer/Binary
