@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  CoreGlobal.cpp
+  CorePch.cpp
+  CoreTLS.cpp
+C:\Users\junhy\source\CPP_Server\GameServer\ServerCore\CoreTLS.cpp(5,21): error C2374: 'LThreadId': 재정의. 여러 번 초기화했습니다.
+C:\Users\junhy\source\CPP_Server\GameServer\ServerCore\CoreTLS.h(3): message : 'LThreadId' 선언을 참조하십시오.
+  ThreadManager.cpp
+  코드를 생성하고 있습니다...
